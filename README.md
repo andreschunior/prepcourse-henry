@@ -1,2 +1,2 @@
-# prepcourse-henry
-este es unepositorio de prueba del prepcourse de henry
+Jose Andres Borrero
+este proyecto es una prueba de como crear un repositorio y clonarlo desde mi github  local 
